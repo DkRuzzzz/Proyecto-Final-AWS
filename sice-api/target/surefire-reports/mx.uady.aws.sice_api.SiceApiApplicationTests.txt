@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mx.uady.aws.sice_api.SiceApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.007 s -- in mx.uady.aws.sice_api.SiceApiApplicationTests

@@ -1,0 +1,7 @@
+mx\uady\aws\sice_api\profesores\ProfesorController.class
+mx\uady\aws\sice_api\alumnos\Alumno.class
+mx\uady\aws\sice_api\alumnos\AlumnoController.class
+mx\uady\aws\sice_api\profesores\Profesor.class
+mx\uady\aws\sice_api\SiceApiApplication.class
+mx\uady\aws\sice_api\profesores\ProfesorRepository.class
+mx\uady\aws\sice_api\alumnos\AlumnoRepository.class
